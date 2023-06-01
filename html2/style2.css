@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.body{
+    background-color: antiquewhite;
+}
+
+.img{
+    width: 110px;
+
+}
+
+.menu-container{
+    background-color: antiquewhite;
+    width: 500px;
+    height: 500px;
+}
+
+.menu-container img{
+    width: 250px;
+    height: 250px;
+}
