@@ -62,7 +62,7 @@ body{
 } */
 
 .dropbtn {
-    background-color: #db8f465e;
+    background-color: #f3d08340;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -70,6 +70,8 @@ body{
     cursor: pointer;
     border-radius: 11px;
     margin-bottom: 21px;
+    transition: all 0.5s;
+    margin: 5px;
 }
   
 .dropdown {
