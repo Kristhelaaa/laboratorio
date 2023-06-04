@@ -1,27 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    list-style: none;
+
+body{
+    background-image: linear-gradient(
+        rgba(27, 238, 227, 0.7),
+        rgba(240, 162, 18, 0.7));
+    min-height: 101vh;
 }
 
-.body{
-    background-color: antiquewhite;
+img{
+    width: 74%;
 }
 
-.img{
-    width: 110px;
-
-}
-
-.menu-container{
-    background-color: antiquewhite;
-    width: 500px;
-    height: 500px;
-}
-
-.menu-container img{
-    width: 250px;
-    height: 250px;
+label{
+    display: flex;
+    justify-content: center;
+    margin-top: 112px;
 }
