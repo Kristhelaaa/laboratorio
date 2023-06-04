@@ -97,7 +97,10 @@ body{
     display: block;
 }
   
-.dropdown-content a:hover {background-color: #eb9e5f}
+.dropdown-content a:hover {
+    background-color: #eb9e5f;
+    border-radius: 11px;
+}
   
 .dropdown:hover .dropdown-content {
     display: block;
