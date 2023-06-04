@@ -145,6 +145,8 @@ body{
     background-color: #EF7B01;
     color: #f9fafc;
     text-transform: uppercase;
+    border-radius: 10px;
+    box-shadow: 7px 7px 15px 1px #cfb36899;
 }
 
 .btn-1:hover{
