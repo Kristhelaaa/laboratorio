@@ -157,9 +157,10 @@ body{
 }
 
 .pastel{
-    padding: 100px;
-    background-color: #e1e2e6;
-    position: relative;
+    background-image: linear-gradient(
+        rgba(174, 240, 237, 0.897),
+        rgba(240, 210, 155, 0.856));
+    min-height: 101vh;
 }
 
 .pastel-content{
