@@ -1,0 +1,17 @@
+
+body{
+  background-image: linear-gradient(
+      rgba(238, 146, 27, 0.7),
+      rgba(235, 238, 76, 0.7));
+  min-height: 101vh;
+}
+
+img{
+  width: 80%;
+}
+
+label{
+  display: flex;
+  justify-content: center;
+  margin-top: 112px;
+}
